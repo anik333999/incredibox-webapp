@@ -4,6 +4,7 @@ This repository contains the **original code** of the mobile version of Incredib
 > v9 came out, you can play it just fine since I backported it to v0.5.7, all bonus work as they should, even if they have different loop count.
 ### ***All of this is property of SO FAR SO GOOD***, i'm just a guy who took the code and modified it lol.
 The web app should be working right now, check ***environments*** to see if it's working. If it doesn't show anything, then you should try **[this link](https://oxtaa.github.io/incredibox)** instead. If it isn't working, you should tell me what's happening at my Discord _(oxtaa\_)_
-### Other projects
-> I have other Incredibox projects, I'll also port some mods, you should check the [main page](https://oxtaa.github.io) in case there's something new!
->oxtaa made it i did'nt ok
+### Oxtaa
+> oxtaa, you should check the [main page for oxtaa he modified it i just taked his code](https://oxtaa.github.io) in case there's something new!
+#P . S.
+oxtaa made this readme and modified this readme
